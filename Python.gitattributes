@@ -1,3 +1,4 @@
 # Attempting to reclassify the notebook file language as Python
+*.ipynb linguist=documentation
 *.py linguist-detectable
 *.ipynb linguist-language=Python
