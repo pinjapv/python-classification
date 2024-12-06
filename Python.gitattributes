@@ -1,2 +1,2 @@
 # Reclassifying the notebook file language as Python
-*.ioynb linguist-language=Python
+*.ipynb linguist-language=Python
